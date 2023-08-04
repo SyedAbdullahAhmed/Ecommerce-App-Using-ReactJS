@@ -1,0 +1,24 @@
+.nav-item {
+     cursor: pointer;
+}
+
+.input{
+     width: 20vw;
+     height: 6vh;
+     border-radius: 9rem;
+     padding: 0 1rem;
+}
+.btn{
+     border-radius: 6rem;
+}
+svg{
+     fill : white;
+     cursor: pointer;
+}
+
+// .slow{
+//      position: absolute; /* Position the input absolutely */
+//      opacity: 0; /* Initially hide the input */
+//      width: 0; /* Initially set width to 0 */
+//      transition: 0.5s ease-in; /* Apply transition to opacity and width */
+// }

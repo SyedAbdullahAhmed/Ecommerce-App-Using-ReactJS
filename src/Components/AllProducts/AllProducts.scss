@@ -1,0 +1,22 @@
+.flex-allpro{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     flex-direction: row;
+     margin: 2rem 1rem;
+}
+.products{
+     cursor: pointer;
+}
+.products:hover{
+     transform: scale(1.1);
+     transition: 0.4s ease-in;
+}
+.img-fluid{
+     height: 50vh;
+}
+.card-text{
+     height: 20vh;
+     overflow: hidden;
+
+}

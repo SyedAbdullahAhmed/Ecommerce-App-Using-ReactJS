@@ -1,0 +1,49 @@
+.box {
+    height: 50vh;
+    width: 100vw;
+    background-image: url("../../Assets/newsletter-bg.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont {
+    display: flex;
+    flex-direction: column;
+}
+h5 {
+    font-weight: 400;
+    text-align: center;
+}
+h3 {
+    font-weight: 600;
+}
+.f {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.form-control-newsletter {
+    width: 20vw;
+    background-color: white;
+    margin: 0.56rem 0;
+    height: 6vh;
+    padding: 0.5rem;
+    border: none;
+}
+.btn-newsletter {
+    margin: 2px;
+    width: 7vw;
+    background-color: rgb(162, 88, 211);
+    color: white;
+    margin: 0.56rem 0;
+    height: 6vh;
+    border: none;
+}
+p {
+    color: gray;
+    text-align: center; margin: 0.56rem 0;
+}

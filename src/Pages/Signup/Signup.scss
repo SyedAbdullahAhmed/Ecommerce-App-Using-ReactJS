@@ -1,0 +1,52 @@
+.flex{
+     display: flex;
+}
+.left{
+     background-color: black;
+     height: 91vh;
+     width: 55vw;
+}
+.right{
+     height: 91vh;
+     width: 45vw;
+     background-color: rgb(230, 230, 230);
+     
+}
+.signup-border{
+     margin: 10vh 8vw;
+     height: 40vh;
+     width: 30vw;
+}
+h1{
+     text-align: center;
+     margin-bottom: 3vh;
+}
+img{
+     height: 100%;
+     width: 100%;
+}
+.login{
+     color:white;
+     text-align: center;
+     margin: 0.6rem auto;
+     width: 30vw;
+     font-weight: 500;
+     border-radius: 1rem;
+     height : 6vh;
+     
+}
+.login:hover{
+     transform: scale(1.01);
+     transition: 0.4s ease-in;
+}
+.form-control{
+     border-radius: 1rem;
+     background-color: rgb(221, 221, 221);
+}
+// .signupbtn{
+//      color:white;
+//      text-align: center;
+//      margin: 0 auto;
+//      width: 30vw;
+//      font-weight: 500;
+// }
