@@ -55,7 +55,7 @@ export const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <span className="text">
-                        JSDEVSTORE 2022 CREATED BY JS DEV. PREMIUM E-COMMERCE
+                        JSDEVSTORE 2022 CREATED BY SYED ABDULLAH AHMED PREMIUM E-COMMERCE
                         SOLUTIONS.
                     </span>
                     {/* <img src={Payment} /> */}
